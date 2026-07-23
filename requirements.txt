@@ -1,0 +1,14 @@
+# Dependências do repositório tech_challengers
+# Versões fixadas conforme o ambiente virtual utilizado (Python 3.9+)
+
+# Núcleo de dados e ML
+numpy==2.0.2
+pandas==2.3.3
+scikit-learn==1.6.1
+
+# Visualização
+matplotlib==3.9.4
+
+# Execução dos notebooks
+ipykernel==6.31.0
+jupyter
